@@ -1,4 +1,4 @@
-# bootcamp-group_project-1
+# Covid19 Policy Implementation Comparison
 
 Group Team Members: Anna Rischitelli, Priya Arunachalam, Nataliia Sokolova, Vincent Durcan, and Shadia Duery
 
